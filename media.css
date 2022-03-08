@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('bloco2.jpg');
+    background-color: #7e6a6a;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    padding: 20px;
+    height: 128vh;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    /*height: 100vh;*/
+  }
+  
+  .page-title {
+    color:whitesmoke;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:whitesmoke;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+
+  .textoCalculo {
+    text-align: center;
+    margin-top: 300px;
+  }
+
+  .nota {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .caixa {
+    size: 25px;
+    font-size: 20px;
+    border: solid 2px rgb(100, 20, 69);
+    border-radius: 20px;
+  }
+
+  .botao {
+    width: 70px;
+    height: 35px;
+    background-color: rgb(100, 20, 69);
+    color: whitesmoke;
+    border-radius: 50%;
+    font-size: 15px;
+    border: solid 2px rgb(0, 0, 0);
+  }
